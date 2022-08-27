@@ -1,0 +1,89 @@
+
+  <div id="outer-grid">
+    <div><!-- TradingView Widget BEGIN -->
+    <div class="tradingview-widget-container">
+    <div class="tradingview-widget-container__widget"></div>
+    <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>
+    {
+    "symbol": "COINBASE:ETHUSD",
+    "width": 650,
+    "height": 320,
+    "locale": "en",
+    "dateRange": "12M",
+    "colorTheme": "light",
+    "trendLineColor": "rgba(41, 98, 255, 1)",
+    "underLineColor": "rgba(41, 98, 255, 0.3)",
+    "underLineBottomColor": "rgba(41, 98, 255, 0)",
+    "isTransparent": false,
+    "autosize": false,
+    "largeChartUrl": ""
+    }
+    </script>
+    </div>
+    <!-- TradingView Widget END --></div>
+    <div><!-- TradingView Widget BEGIN -->
+    <div class="tradingview-widget-container">
+    <div class="tradingview-widget-container__widget"></div>
+    <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>
+    {
+    "symbol": "BINANCE:BTCUSDC",
+    "width": 650,
+    "height": 320,
+    "locale": "en",
+    "dateRange": "12M",
+    "colorTheme": "light",
+    "trendLineColor": "rgba(41, 98, 255, 1)",
+    "underLineColor": "rgba(41, 98, 255, 0.3)",
+    "underLineBottomColor": "rgba(41, 98, 255, 0)",
+    "isTransparent": false,
+    "autosize": false,
+    "largeChartUrl": ""
+    }
+    </script>
+    </div>
+    <!-- TradingView Widget END -->
+    </div>
+    <div><!-- TradingView Widget BEGIN -->
+    <div class="tradingview-widget-container">
+    <div class="tradingview-widget-container__widget"></div>
+    <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>
+    {
+    "symbol": "BITFINEX:WAXUSD",
+    "width": 650,
+    "height": 320,
+    "locale": "en",
+    "dateRange": "12M",
+    "colorTheme": "light",
+    "trendLineColor": "rgba(41, 98, 255, 1)",
+    "underLineColor": "rgba(41, 98, 255, 0.3)",
+    "underLineBottomColor": "rgba(41, 98, 255, 0)",
+    "isTransparent": false,
+    "autosize": false,
+    "largeChartUrl": ""
+    }
+    </script>
+    </div>
+    <!-- TradingView Widget END --></div>
+    <div><!-- TradingView Widget BEGIN -->
+    <div class="tradingview-widget-container">
+    <div class="tradingview-widget-container__widget"></div>
+    <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-mini-symbol-overview.js" async>
+    {
+    "symbol": "BINANCE:SHIBUSDT",
+    "width": 650,
+    "height": 320,
+    "locale": "en",
+    "dateRange": "12M",
+    "colorTheme": "light",
+    "trendLineColor": "rgba(41, 98, 255, 1)",
+    "underLineColor": "rgba(41, 98, 255, 0.3)",
+    "underLineBottomColor": "rgba(41, 98, 255, 0)",
+    "isTransparent": false,
+    "autosize": false,
+    "largeChartUrl": ""
+    }
+    </script>
+    </div>
+    <!-- TradingView Widget END --></div>
+    </div>
+
